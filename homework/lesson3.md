@@ -1,4 +1,4 @@
-# 第一课作业
+# 第3课作业
 - 代码Github链接  
 https://github.com/lost-inwind/slides/blob/homework/03_polkadot-js-api/kitties/frontend/src/Kitties.js
 
